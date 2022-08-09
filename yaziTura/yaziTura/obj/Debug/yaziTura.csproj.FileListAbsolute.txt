@@ -1,0 +1,10 @@
+C:\Users\oguzh\Desktop\Windows Form APP\yaziTura\yaziTura\bin\Debug\yaziTura.exe.config
+C:\Users\oguzh\Desktop\Windows Form APP\yaziTura\yaziTura\bin\Debug\yaziTura.exe
+C:\Users\oguzh\Desktop\Windows Form APP\yaziTura\yaziTura\bin\Debug\yaziTura.pdb
+C:\Users\oguzh\Desktop\Windows Form APP\yaziTura\yaziTura\obj\Debug\yaziTura.csprojAssemblyReference.cache
+C:\Users\oguzh\Desktop\Windows Form APP\yaziTura\yaziTura\obj\Debug\yaziTura.Form1.resources
+C:\Users\oguzh\Desktop\Windows Form APP\yaziTura\yaziTura\obj\Debug\yaziTura.Properties.Resources.resources
+C:\Users\oguzh\Desktop\Windows Form APP\yaziTura\yaziTura\obj\Debug\yaziTura.csproj.GenerateResource.cache
+C:\Users\oguzh\Desktop\Windows Form APP\yaziTura\yaziTura\obj\Debug\yaziTura.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\Desktop\Windows Form APP\yaziTura\yaziTura\obj\Debug\yaziTura.exe
+C:\Users\oguzh\Desktop\Windows Form APP\yaziTura\yaziTura\obj\Debug\yaziTura.pdb
